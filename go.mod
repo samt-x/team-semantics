@@ -1,3 +1,3 @@
-module github.com/SAMT-BU/team-semantics
+module github.com/SAMT-X/team-semantics
 
 go 1.25.6
