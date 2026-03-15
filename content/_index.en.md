@@ -1,7 +1,7 @@
 ---
 title: "Team Semantics"
 linkTitle: "Team Semantics"
-weight: 1
+weight: 10
 status: ""
 draft: false
 ---
