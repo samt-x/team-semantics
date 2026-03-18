@@ -1,4 +1,5 @@
 ---
+id: b25bad4d-7cd6-4eab-82ec-272a560f0b1e
 title: "Team semantikk"
 linkTitle: "Team semantikk"
 weight: 20
