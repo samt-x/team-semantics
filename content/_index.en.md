@@ -5,7 +5,6 @@ linkTitle: "Team Semantics"
 weight: 10
 status: ""
 draft: false
-last_editor: erikhag1git (Erik Hagen)
 
 ---
 
