@@ -1,8 +1,8 @@
 ---
 # id: auto-generated – copied values are overwritten automatically on push
 id: b25bad4d-7cd6-4eab-82ec-272a560f0b1e
-title: "Team Semantics"
-linkTitle: "Team Semantics"
+title: "Information architecture"
+linkTitle: "Information architecture"
 weight: 10
 status: ""
 draft: false
