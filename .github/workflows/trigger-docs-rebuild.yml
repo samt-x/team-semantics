@@ -33,9 +33,11 @@ jobs:
           fi
 
       - name: Send repository_dispatch til samt-bu-docs
+        env:
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.DOCS_REBUILD_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/SAMT-X/samt-bu-docs/dispatches \
-            -d '{"event_type":"module-updated","client_payload":{"source":"team-semantics"}}'
+            --data "$(jq -n --arg source 'team-semantics' --arg msg "$COMMIT_MSG" '{event_type:"module-updated",client_payload:{source:$source,message:$msg}}')"
