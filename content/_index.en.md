@@ -1,9 +1,9 @@
 ---
 # id: auto-generated – copied values are overwritten automatically on push
-id: b25bad4d-7cd6-4eab-82ec-272a560f0b1e
+id: 9871c51b-05f0-4a4e-bc61-951f7416ed9b
 title: "Information architecture"
 linkTitle: "Information architecture"
-weight: 10
+weight: 40
 status: ""
 draft: false
 
