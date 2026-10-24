@@ -117,6 +117,12 @@ def main():
             changed.append(en)
             print(f"  + Kopiert UUID til en: {en}")
 
+        elif nb_id:
+            # Bare nb-fil, og den har UUID – ok. Uten denne grenen falt
+            # siden gjennom til else og fikk ny UUID ved hver push
+            # (solution-samt-bu-docs#79)
+            pass
+
         elif en_id:
             # nb mangler UUID – kopier fra en
             set_uuid(nb, en_id, nb_txt)
