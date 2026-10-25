@@ -6,6 +6,8 @@ linkTitle: "Begreper"
 weight: 20
 status: ""
 draft: false
+lastmod: 2026-10-24T16:47:39+02:00
+last_editor: Erik Hagen
 
 ---
 

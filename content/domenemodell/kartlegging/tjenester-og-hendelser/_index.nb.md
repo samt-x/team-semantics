@@ -6,6 +6,8 @@ linkTitle: "Tjenester og hendelser innen opplæringsområdet"
 weight: 20
 status: ""
 draft: false
+lastmod: 2026-10-24T16:47:39+02:00
+last_editor: Erik Hagen
 
 ---
 Oversikten er generert med Claude Opus 5.5, basert på oversiktene over Lovpålagte oppgaver og Innbyggeres rettigheter og plikter. Oversikten er ikke gjennomgått manuelt. Det anbefales at man sjekker innholdet mot oppgitte kilder før man bruker oversikten til noe. 

@@ -6,6 +6,8 @@ linkTitle: "Information architecture"
 weight: 40
 status: ""
 draft: false
+lastmod: 2026-10-24T16:47:39+02:00
+last_editor: Erik Hagen
 
 ---
 
