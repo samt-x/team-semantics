@@ -3,6 +3,9 @@ id: 3a11cc0c-3339-4a31-89a5-6a869a6c5793
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-02T00:12:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 The tasks for the information models are issues in [information-models](https://github.com/samt-x/information-models/issues) and on the board [SAMT-BU Informasjonsmodeller](https://github.com/orgs/samt-x/projects/6) (Project 6). This page shows where the work stands.

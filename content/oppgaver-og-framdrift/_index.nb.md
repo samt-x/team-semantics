@@ -3,6 +3,9 @@ id: 3a11cc0c-3339-4a31-89a5-6a869a6c5793
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 90
+lastmod: 2026-11-02T00:12:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 Oppgavene for informasjonsmodellene ligger som issues i [information-models](https://github.com/samt-x/information-models/issues) og på brettet [SAMT-BU Informasjonsmodeller](https://github.com/orgs/samt-x/projects/6) (Project 6). Denne siden viser hvor arbeidet står.
