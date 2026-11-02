@@ -6,6 +6,8 @@ linkTitle: "Services and events in the education domain"
 weight: 20
 status: ""
 draft: false
+lastmod: 2026-11-02T21:37:57+01:00
+last_editor: Erik Hagen
 
 ---
 The overview has been generated with Claude Opus 5.5, based on the overviews of Statutory duties and Citizens' rights and duties. The overview has not been reviewed manually. It is recommended that you check the content against the stated sources before using the overview for anything. 

@@ -6,6 +6,8 @@ linkTitle: "Citizens' rights and duties"
 weight: 20
 status: ""
 draft: false
+lastmod: 2026-11-02T21:37:57+01:00
+last_editor: Erik Hagen
 
 ---
 
