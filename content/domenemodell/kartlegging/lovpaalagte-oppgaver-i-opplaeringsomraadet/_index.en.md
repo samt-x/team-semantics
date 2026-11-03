@@ -4,6 +4,8 @@ id: c9cb7342-ee9c-4d3d-a798-3bff7c2036a4
 title: Statutory duties in the education sector
 linkTitle: Statutory duties in the education sector
 weight: 10
+lastmod: 2026-11-03T01:41:42+01:00
+last_editor: Erik Hagen
 
 ---
 
